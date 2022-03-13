@@ -4,14 +4,13 @@
 .container{
     display: flex;
     justify-content: center;
-    height: fit-content;
-    width: ;
+    
     align-items: center;
 }
 .circle{
     position: relative;
     height:60vh;
-    width: 60vw;
+    width: 40vw;
     border:solid 5px black;
     border-radius: 50%;
     background-color: rgb(245, 245, 245);
